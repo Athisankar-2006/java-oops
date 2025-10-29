@@ -1,3 +1,4 @@
+package intermediate;
 
 
 public class JaggedArrayExample {
