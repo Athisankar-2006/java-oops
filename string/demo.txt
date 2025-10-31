@@ -1,0 +1,5 @@
+import java.util.Scanner;
+CountVowelsConsonants
+public class  {
+   
+}
