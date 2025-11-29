@@ -1,0 +1,268 @@
+
+✅ OOPs in Java – Complete Subtopics List
+🔹 1. Basics of OOP
+
+
+
+
+
+These concepts explain why OOP exists.
+
+1.1 What is OOP?
+
+Meaning & need
+
+Advantages of OOP
+
+Difference between Procedure Oriented Programming vs OOP
+
+1.2 Class & Object
+
+What is a class?
+
+What is an object?
+
+How objects are created (new keyword)
+
+1.3 Data Members & Methods
+
+Instance variables
+
+Methods
+
+Accessing members using objects
+
+
+
+
+
+
+🔹 2. Constructors
+
+Default constructor
+
+Parameterized constructor
+
+Constructor overloading
+
+this() constructor call
+
+Difference between constructor vs method
+
+
+
+
+
+🔹 3. Encapsulation
+
+Getters & setters
+
+Private data hiding
+
+Why encapsulation is needed
+
+POJO (Plain Old Java Object)
+
+JavaBean conventions
+
+
+
+
+
+🔹 4. Inheritance
+
+Single inheritance
+
+Multilevel inheritance
+
+Hierarchical inheritance
+
+super keyword
+
+super variable
+
+super method call
+
+super() constructor call
+
+Method overriding
+
+Is-A vs Has-A relationship
+
+
+
+5. Polymorphism
+Compile-time polymorphism
+
+Method overloading
+
+Runtime polymorphism
+
+Method overriding
+
+Dynamic method dispatch
+
+Upcasting & Downcasting
+
+
+
+🔹 6. Abstraction
+
+Abstract classes
+
+Abstract methods
+
+Interfaces
+
+Default & static methods in interface
+
+Multiple inheritance using interface
+
+
+
+
+🔹 7. this & super keyword
+
+this keyword – uses
+
+super keyword – uses
+
+Accessing parent class properties
+
+Constructor chaining
+
+
+
+🔹 8. Static Keyword
+
+Static variables
+
+Static methods
+
+Static blocks
+
+Static vs instance members
+
+
+
+
+🔹 9. Final Keyword
+
+final variable
+
+final method
+
+final class
+
+
+
+
+🔹 10. Packages
+
+Built-in packages
+
+User-defined packages
+
+Accessing classes from other packages
+
+import keyword
+
+
+
+
+
+🔹 11. Access Modifiers
+
+public
+
+private
+
+protected
+
+default
+
+Access levels inside/outside package
+
+Access in inheritance
+
+
+
+
+
+🔹 12. Object Class (Java’s root class)
+
+toString()
+
+hashCode()
+
+equals()
+
+finalize()
+
+clone()
+
+
+
+
+
+🔹 13. Inner Classes
+
+Member inner class
+
+Static inner class
+
+Local inner class
+
+Anonymous inner class
+
+
+
+
+
+🔹 14. Aggregation & Composition
+
+Has-A relationship
+
+When to use
+
+Difference between aggregation vs composition
+
+
+
+
+
+🔹 15. UML Basics (Optional but Helpful)
+
+Class diagram
+
+Object diagram
+
+Relationships
+
+
+
+
+
+🔹 16. Advanced OOP Concepts
+
+Encapsulation vs Abstraction difference
+
+Coupling & Cohesion
+
+Dependency Injection
+
+SOLID Principles
+
+DRY, KISS principles
+
+OOP design patterns (important ones)
+
+Singleton
+
+Factory
+
+Builder
+
+Strategy
+
+Observer
